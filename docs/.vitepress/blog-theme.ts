@@ -2,7 +2,7 @@ import type { Theme } from '@ort/vitepress-theme'
 import { getThemeConfig } from '@ort/vitepress-theme/node'
 import { themeEN } from './locales/en'
 
-const baseUrl = 'http://somecore.cn'
+const baseUrl = 'https://yuanjingteam.github.io'
 const RSS: Theme.RSSOptions = {
   title: '源境博客',
   baseUrl,
@@ -98,6 +98,7 @@ export const blogTheme = getThemeConfig({
       categoryId: 'DIC_kwDONUfp6s4CklcG',
       inputPosition: 'top',
       loading: 'lazy',
+      mapping: 'title',
       lang: 'zh-CN',
     },
   },

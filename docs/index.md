@@ -1,13 +1,13 @@
 ---
-title: 'VitePress 博客主题'
+title: '源境'
 layout: home
 # 首页部分元素定制
 blog:
 #  logo: /logo.svg
 #  avatarMode: split
 #  minScreenAvatar: false
- name: '@ort/vitepress-theme'
- motto: 博客之源
+ name: '前端技术博客'
+ motto: 源境
  inspiring:
   - 保持热爱，奔赴山海🎨
   - 学习不是人生的全部，但既然连人生的一部分（学习）都无法征服，还能做什么呢？

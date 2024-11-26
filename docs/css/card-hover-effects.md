@@ -1,6 +1,7 @@
 ---
 sticky: 1
 description: 卡片悬停效果
+sidebar: false
 tag:
  - CSS
 ---
