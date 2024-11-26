@@ -41,7 +41,7 @@ module.exports = __toCommonJS(node_exports);
 // src/utils/node/mdPlugins.ts
 var import_module = require("module");
 
-// node_modules/vitepress-plugin-tabs/dist/index.js
+// node_modules/.pnpm/vitepress-plugin-tabs@0.2.0_vitepress@1.5.0_@algolia+client-search@5.15.0_@types+node@22.9.4__vn544howob5mnjso56f7s3mja4/node_modules/vitepress-plugin-tabs/dist/index.js
 var tabsMarker = "=tabs";
 var tabsMarkerLen = tabsMarker.length;
 var ruleBlockTabs = (state, startLine, endLine, silent) => {
@@ -220,7 +220,7 @@ var import_node_process = __toESM(require("process"));
 var import_cross_spawn = require("cross-spawn");
 var import_gray_matter = __toESM(require("gray-matter"));
 
-// node_modules/yocto-queue/index.js
+// node_modules/.pnpm/yocto-queue@1.1.1/node_modules/yocto-queue/index.js
 var Node = class {
   value;
   next;
@@ -278,7 +278,7 @@ var Queue = class {
   }
 };
 
-// node_modules/p-limit/index.js
+// node_modules/.pnpm/p-limit@4.0.0/node_modules/p-limit/index.js
 function pLimit(concurrency) {
   if (!((Number.isInteger(concurrency) || concurrency === Number.POSITIVE_INFINITY) && concurrency > 0)) {
     throw new TypeError("Expected `concurrency` to be a number from 1 and up");

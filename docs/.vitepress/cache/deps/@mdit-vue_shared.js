@@ -1,6 +1,6 @@
 import "./chunk-5WRI5ZAA.js";
 
-// node_modules/@mdit-vue/shared/dist/index.mjs
+// node_modules/.pnpm/@mdit-vue+shared@0.12.1/node_modules/@mdit-vue/shared/dist/index.mjs
 var htmlEscapeMap = {
   "&": "&amp;",
   "<": "&lt;",

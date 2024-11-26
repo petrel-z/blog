@@ -1,6 +1,6 @@
 import "./chunk-5WRI5ZAA.js";
 
-// node_modules/swiper/shared/ssr-window.esm.mjs
+// node_modules/.pnpm/swiper@11.1.15/node_modules/swiper/shared/ssr-window.esm.mjs
 function isObject(obj) {
   return obj !== null && typeof obj === "object" && "constructor" in obj && obj.constructor === Object;
 }
@@ -149,7 +149,7 @@ function getWindow() {
   return win;
 }
 
-// node_modules/swiper/shared/utils.mjs
+// node_modules/.pnpm/swiper@11.1.15/node_modules/swiper/shared/utils.mjs
 function classesToTokens(classes2) {
   if (classes2 === void 0) {
     classes2 = "";
@@ -410,7 +410,7 @@ function elementOuterSize(el, size, includeMargins) {
   return el.offsetWidth;
 }
 
-// node_modules/swiper/shared/swiper-core.mjs
+// node_modules/.pnpm/swiper@11.1.15/node_modules/swiper/shared/swiper-core.mjs
 var support;
 function calcSupport() {
   const window2 = getWindow();

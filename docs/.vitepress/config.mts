@@ -58,7 +58,7 @@ export default defineConfig({
     ],
     editLink: {
       pattern:
-        'https://github.com/yuanjingteam/blog/tree/master/packages/theme/docs/:path',
+        'https://github.com/yuanjingteam/snippets-blog/tree/main/docs/:path',
       text: '去 GitHub 上编辑内容'
     },
     lastUpdatedText: '上次更新于',
