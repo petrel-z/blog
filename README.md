@@ -3,22 +3,6 @@
 简约风的 Vitepress 博客主题
 
 
-## 快速搭建
-① 创建项目
-
-```bash
-# With PNPM:
-pnpm create @ort/vitepress-theme
-
-# With NPM:
-npm create @ort/vitepress-theme@latest
-
-# With Yarn:
-yarn create @ort/vitepress-theme
-
-```
-
-创建成功后，进入项目目录，安装依赖
 
 ② 安装依赖
 ```sh
