@@ -1,0 +1,84 @@
+// .mts 文件扩展名表示 TypeScript 模块文件，专门用于 ECMAScript 模块
+import path from 'node:path'
+import { defineConfig } from 'vitepress'
+import { La51Plugin } from 'vitepress-plugin-51la'
+import { blogTheme } from './blog-theme'
+
+
+const base = '/snippets-blog/'
+export default defineConfig({
+  base,
+  extends: blogTheme,
+  metaChunk: true,
+  sitemap: {
+    hostname: 'https://somecore.cn',
+  },
+  cleanUrls: false,
+  lang: 'zh-cn',
+  title: '源境博客',
+  description: 'A simple Vitepress theme',
+  rewrites: {
+    'test/abc/hello/test.md': 'abc/test.md'
+  },
+  vite: {
+    resolve: {
+      alias: {
+        '@ort/vitepress-theme': path.join(__dirname, '../../src/index.ts')
+      }
+    },
+    plugins: [
+      La51Plugin({
+        id: '3KOb0Sb7XISO8mCa',
+        ck: '3KOb0Sb7XISO8mCa'
+      })
+    ]
+  },
+  themeConfig: {
+    logo: '/logo.svg',
+    nav: [
+      {
+        text: '关于',
+        link: '/about'
+      },
+      {
+        text: '其他',
+        items: [
+          {
+            text: '开发手册',
+            link: 'http://book.somecore.cn'
+          },
+        ]
+      },
+    ],
+    socialLinks: [
+      {
+        icon: 'github',
+        link: 'https://github.com/yuanjingteam'
+      },
+    ],
+    editLink: {
+      pattern:
+        'https://github.com/yuanjingteam/blog/tree/master/packages/theme/docs/:path',
+      text: '去 GitHub 上编辑内容'
+    },
+    lastUpdatedText: '上次更新于',
+    outline: {
+      level: [2, 3],
+      label: '目录'
+    },
+    returnToTopLabel: '回到顶部',
+    sidebarMenuLabel: '相关推荐'
+  },
+  lastUpdated: true,
+  locales: {
+    root: {
+      label: '简体中文',
+      lang: 'zh-cn'
+    },
+    en: {
+      label: 'English',
+      lang: 'en',
+      link: '/en/'
+    }
+  }
+})
