@@ -35,6 +35,7 @@
     "dev:docs": "vitepress dev docs",
     "dev:node": "npx tsup --watch",
     "build": "npm run build:node && npm run build:docs",
+    "build-server": "set NODE_ENV=production && npm run build",
     "build:docs": "vitepress build docs",
     "build:node": "npx tsup",
     "serve": "vitepress serve docs"

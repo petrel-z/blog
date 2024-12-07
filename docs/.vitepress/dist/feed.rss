@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>源境博客</title>
-        <link>http://somecore.cn</link>
+        <link>https://yuanjingteam.github.io</link>
         <description>powered by vitepress</description>
-        <lastBuildDate>Tue, 26 Nov 2024 07:58:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Dec 2024 10:59:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>源境博客</copyright>
         <item>
             <title><![CDATA[卡片悬停效果]]></title>
-            <link>http://somecore.cn/snippets-blog/css/card-hover-effects.html</link>
-            <guid>http://somecore.cn/snippets-blog/css/card-hover-effects.html</guid>
-            <pubDate>Tue, 26 Nov 2024 07:54:32 GMT</pubDate>
+            <link>https://yuanjingteam.github.io/css/card-hover-effects.html</link>
+            <guid>https://yuanjingteam.github.io/css/card-hover-effects.html</guid>
+            <pubDate>Tue, 26 Nov 2024 09:40:32 GMT</pubDate>
             <description><![CDATA[卡片悬停效果]]></description>
             <content:encoded><![CDATA[<h1 id="卡片悬停效果" tabindex="-1">卡片悬停效果 <a class="header-anchor" href="#卡片悬停效果" aria-label="Permalink to &quot;卡片悬停效果&quot;"></a></h1>
 <p><img src="https://www.30secondsofcode.org/assets/cover/clouds-n-mountains-1200.webp" alt="">
@@ -88,8 +88,8 @@
         </item>
         <item>
             <title><![CDATA[🔧 Theme Component Config]]></title>
-            <link>http://somecore.cn/snippets-blog/en/config/component.html</link>
-            <guid>http://somecore.cn/snippets-blog/en/config/component.html</guid>
+            <link>https://yuanjingteam.github.io/en/config/component.html</link>
+            <guid>https://yuanjingteam.github.io/en/config/component.html</guid>
             <pubDate>Tue, 26 Nov 2024 01:57:39 GMT</pubDate>
             <description><![CDATA[wait a moment.]]></description>
             <content:encoded><![CDATA[<h1 id="component-config" tabindex="-1">Component Config <a class="header-anchor" href="#component-config" aria-label="Permalink to &quot;Component Config&quot;"></a></h1>
@@ -98,8 +98,8 @@
         </item>
         <item>
             <title><![CDATA[🔧 Frontmatter Config]]></title>
-            <link>http://somecore.cn/snippets-blog/en/config/frontmatter.html</link>
-            <guid>http://somecore.cn/snippets-blog/en/config/frontmatter.html</guid>
+            <link>https://yuanjingteam.github.io/en/config/frontmatter.html</link>
+            <guid>https://yuanjingteam.github.io/en/config/frontmatter.html</guid>
             <pubDate>Tue, 26 Nov 2024 01:57:39 GMT</pubDate>
             <description><![CDATA[wait a moment.]]></description>
             <content:encoded><![CDATA[<h1 id="frontmatter-config" tabindex="-1">Frontmatter Config <a class="header-anchor" href="#frontmatter-config" aria-label="Permalink to &quot;Frontmatter Config&quot;"></a></h1>
@@ -108,8 +108,8 @@
         </item>
         <item>
             <title><![CDATA[🔧 Global Config]]></title>
-            <link>http://somecore.cn/snippets-blog/en/config/global.html</link>
-            <guid>http://somecore.cn/snippets-blog/en/config/global.html</guid>
+            <link>https://yuanjingteam.github.io/en/config/global.html</link>
+            <guid>https://yuanjingteam.github.io/en/config/global.html</guid>
             <pubDate>Tue, 26 Nov 2024 01:57:39 GMT</pubDate>
             <description><![CDATA[wait a moment]]></description>
             <content:encoded><![CDATA[<h1 id="global-config" tabindex="-1">Global Config <a class="header-anchor" href="#global-config" aria-label="Permalink to &quot;Global Config&quot;"></a></h1>
@@ -118,8 +118,8 @@
         </item>
         <item>
             <title><![CDATA[VitePress - Common]]></title>
-            <link>http://somecore.cn/snippets-blog/en/config/inline-matter.html</link>
-            <guid>http://somecore.cn/snippets-blog/en/config/inline-matter.html</guid>
+            <link>https://yuanjingteam.github.io/en/config/inline-matter.html</link>
+            <guid>https://yuanjingteam.github.io/en/config/inline-matter.html</guid>
             <pubDate>Tue, 26 Nov 2024 01:57:39 GMT</pubDate>
             <description><![CDATA[wait a moment]]></description>
             <content:encoded><![CDATA[<h1 id="page-config" tabindex="-1">Page Config <a class="header-anchor" href="#page-config" aria-label="Permalink to &quot;Page Config&quot;"></a></h1>
@@ -128,8 +128,8 @@
         </item>
         <item>
             <title><![CDATA[🔧 Style Config]]></title>
-            <link>http://somecore.cn/snippets-blog/en/config/style.html</link>
-            <guid>http://somecore.cn/snippets-blog/en/config/style.html</guid>
+            <link>https://yuanjingteam.github.io/en/config/style.html</link>
+            <guid>https://yuanjingteam.github.io/en/config/style.html</guid>
             <pubDate>Tue, 26 Nov 2024 01:57:39 GMT</pubDate>
             <description><![CDATA[wait a moment]]></description>
             <content:encoded><![CDATA[<h1 id="style-config" tabindex="-1">Style Config <a class="header-anchor" href="#style-config" aria-label="Permalink to &quot;Style Config&quot;"></a></h1>
@@ -138,8 +138,8 @@
         </item>
         <item>
             <title><![CDATA[demo]]></title>
-            <link>http://somecore.cn/snippets-blog/en/example/</link>
-            <guid>http://somecore.cn/snippets-blog/en/example/</guid>
+            <link>https://yuanjingteam.github.io/en/example/</link>
+            <guid>https://yuanjingteam.github.io/en/example/</guid>
             <pubDate>Tue, 26 Nov 2024 01:57:39 GMT</pubDate>
             <description><![CDATA[This is a demo page.]]></description>
             <content:encoded><![CDATA[<h1 id="demo" tabindex="-1">demo <a class="header-anchor" href="#demo" aria-label="Permalink to &quot;demo&quot;"></a></h1>
@@ -148,8 +148,8 @@
         </item>
         <item>
             <title><![CDATA[使用 GitHub/Gitee Pages 部署博客]]></title>
-            <link>http://somecore.cn/snippets-blog/sop/gh-pages.html</link>
-            <guid>http://somecore.cn/snippets-blog/sop/gh-pages.html</guid>
+            <link>https://yuanjingteam.github.io/sop/gh-pages.html</link>
+            <guid>https://yuanjingteam.github.io/sop/gh-pages.html</guid>
             <pubDate>Tue, 26 Nov 2024 01:57:39 GMT</pubDate>
             <description><![CDATA[快速完成博客的发布部署到 GitHub/Gitee Pages。]]></description>
             <content:encoded><![CDATA[<h1 id="使用-github-gitee-pages-部署博客" tabindex="-1">使用 GitHub/Gitee Pages 部署博客 <a class="header-anchor" href="#使用-github-gitee-pages-部署博客" aria-label="Permalink to &quot;使用 GitHub/Gitee Pages 部署博客&quot;"></a></h1>
@@ -283,8 +283,8 @@
         </item>
         <item>
             <title><![CDATA[关于]]></title>
-            <link>http://somecore.cn/snippets-blog/about.html</link>
-            <guid>http://somecore.cn/snippets-blog/about.html</guid>
+            <link>https://yuanjingteam.github.io/about.html</link>
+            <guid>https://yuanjingteam.github.io/about.html</guid>
             <pubDate>Mon, 25 Nov 2024 14:00:00 GMT</pubDate>
             <description><![CDATA[关于主题
 在当今数字化的时代，无论是分享技术见解、记录生活点滴还是传播知识教程，拥有一个美观且功能强大的博客平台都至关重要。而 Vitepress 作为一款新兴的静态网站生成器，正逐渐成为众多博主和内]]></description>
@@ -305,8 +305,8 @@
         </item>
         <item>
             <title><![CDATA[路由重写测试]]></title>
-            <link>http://somecore.cn/snippets-blog/abc/test.html</link>
-            <guid>http://somecore.cn/snippets-blog/abc/test.html</guid>
+            <link>https://yuanjingteam.github.io/abc/test.html</link>
+            <guid>https://yuanjingteam.github.io/abc/test.html</guid>
             <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[```js
 export default {
@@ -325,12 +325,12 @@ export default {
 </div><p>123456</p>
 <p><img src="./abdd/image.png" alt="alt text"></p>
 ]]></content:encoded>
-            <enclosure url="http://somecore.cn/abdd/image.png" length="0" type="image/png"/>
+            <enclosure url="https://yuanjingteam.github.io/abdd/image.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[动态路由1]]></title>
-            <link>http://somecore.cn/snippets-blog/test/abc/dynamic/1.0.0.html</link>
-            <guid>http://somecore.cn/snippets-blog/test/abc/dynamic/1.0.0.html</guid>
+            <link>https://yuanjingteam.github.io/test/abc/dynamic/1.0.0.html</link>
+            <guid>https://yuanjingteam.github.io/test/abc/dynamic/1.0.0.html</guid>
             <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[foo1 description]]></description>
             <content:encoded><![CDATA[<h1 id="动态路由1" tabindex="-1">动态路由1 <a class="header-anchor" href="#动态路由1" aria-label="Permalink to &quot;动态路由1&quot;"></a></h1>
@@ -340,8 +340,8 @@ export default {
         </item>
         <item>
             <title><![CDATA[动态路由2]]></title>
-            <link>http://somecore.cn/snippets-blog/test/abc/dynamic/2.0.0.html</link>
-            <guid>http://somecore.cn/snippets-blog/test/abc/dynamic/2.0.0.html</guid>
+            <link>https://yuanjingteam.github.io/test/abc/dynamic/2.0.0.html</link>
+            <guid>https://yuanjingteam.github.io/test/abc/dynamic/2.0.0.html</guid>
             <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[foo1 descriptionxx]]></description>
             <content:encoded><![CDATA[<h1 id="动态路由1" tabindex="-1">动态路由1 <a class="header-anchor" href="#动态路由1" aria-label="Permalink to &quot;动态路由1&quot;"></a></h1>
