@@ -5,7 +5,7 @@ import { La51Plugin } from 'vitepress-plugin-51la'
 import { blogTheme } from './blog-theme'
 
 
-const base = process.env.NODE_ENV === 'production' ? '/snippets-blog/' : '/snippets-blog/'
+const base = process.env.NODE_ENV === 'production' ? '/blog/' : '/blog/'
 export default defineConfig({
   base,
   extends: blogTheme,
