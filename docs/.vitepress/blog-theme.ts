@@ -92,7 +92,7 @@ export const blogTheme = getThemeConfig({
   comment: {
     type: 'giscus',
     options: {
-      repo: 'yuanjingteam/snippets-blog',
+      repo: 'yuanjingteam/blog',
       repoId: 'R_kgDONUfp6g',
       category: 'Announcements',
       categoryId: 'DIC_kwDONUfp6s4CklcG',
