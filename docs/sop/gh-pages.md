@@ -53,10 +53,10 @@ jobs:
 
     runs-on: ubuntu-latest
 
-    # node v20 运行
+    # node 18 运行
     strategy:
       matrix:
-        node-version: [20]
+        node-version: [18]
 
     steps:
       # 拉取代码
