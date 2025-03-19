@@ -6,7 +6,7 @@ import JoinGroup from './JoinGroup.vue'
 
 export default {
   ...BlogTheme,
-  Layout: h(BlogTheme.Layout, undefined, {
+  Layout: BlogTheme.Layout && h(BlogTheme.Layout, undefined, {
     'doc-before': () => h(JoinGroup),
     'doc-after': () => h(JoinGroup, { showImg: true }),
   }),

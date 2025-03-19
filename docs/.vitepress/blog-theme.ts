@@ -1,6 +1,5 @@
 import type { Theme } from '@ort/vitepress-theme'
 import { getThemeConfig } from '@ort/vitepress-theme/node'
-import { themeEN } from './locales/en'
 
 const baseUrl = 'https://yuanjingteam.github.io'
 const RSS: Theme.RSSOptions = {
@@ -11,9 +10,6 @@ const RSS: Theme.RSSOptions = {
 }
 
 export const blogTheme = getThemeConfig({
-  locales: {
-    en: themeEN
-  },
   // formatShowDate: {
   //   justNow: '不久前',
   //   minutesAgo: ' minutes ago',

@@ -69,16 +69,5 @@ export default defineConfig({
     returnToTopLabel: '回到顶部',
     sidebarMenuLabel: '相关推荐'
   },
-  lastUpdated: true,
-  locales: {
-    root: {
-      label: '简体中文',
-      lang: 'zh-cn'
-    },
-    en: {
-      label: 'English',
-      lang: 'en',
-      link: '/en/'
-    }
-  }
+  lastUpdated: true
 })
