@@ -1,10 +1,10 @@
 ---
 sticky: 2
-description: js的相等运算符 ==和=== 区别
+description: js的相等运算符 ==和=== 区别?
 tag:             
  - js     
 ---
-# JavaScript 的相等运算符有什么区别？
+# JavaScript 的相等运算符有什么区别?
 
 ![image-20250330115003454](./images/image-20250330113810221.png)
 
