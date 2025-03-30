@@ -8,7 +8,7 @@ tag:
 
 # 使用 Node.js 创建静态文件服务器
 
-![img](../\..\public\images\man-cup-laptop-1200.webp)
+![img](..\public\images\man-cup-laptop-1200.webp)
 
 ## 一个简单的静态文件服务器
 
