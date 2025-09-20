@@ -1,6 +1,6 @@
 name: Deploy Pages
 
-# 触发条件，push到main分支或者pull request到main分支
+# 当前工作流触发条件，push到main分支或者pull request到main分支
 on:
   push:
     branches: [main]
@@ -32,14 +32,14 @@ concurrency:
 jobs:
   # 构建任务
   build:
-
+    # 环境配置
     runs-on: ubuntu-latest
-
     # node v18 运行
     strategy:
       matrix:
         node-version: [18]
 
+    # 构建步骤
     steps:
       # 拉取代码
       - name: Checkout
@@ -73,7 +73,7 @@ jobs:
           echo ${{ github.workspace }}
           pnpm build
 
-        # 资源拷贝
+        # 资源拷贝，将VitePress构建的静态文件通过Jekyll处理，为GitHub Pages做准备
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:

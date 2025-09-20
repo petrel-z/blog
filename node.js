@@ -41,7 +41,7 @@ module.exports = __toCommonJS(node_exports);
 // src/utils/node/mdPlugins.ts
 var import_module = require("module");
 
-// node_modules/.pnpm/vitepress-plugin-tabs@0.2.0_85968ed900cff2a7cc5fe797763335dc/node_modules/vitepress-plugin-tabs/dist/index.js
+// node_modules/.pnpm/vitepress-plugin-tabs@0.2.0_vitepress@1.5.0_@algolia+client-search@5.22.0_@types+node@2_85968ed900cff2a7cc5fe797763335dc/node_modules/vitepress-plugin-tabs/dist/index.js
 var tabsMarker = "=tabs";
 var tabsMarkerLen = tabsMarker.length;
 var ruleBlockTabs = (state, startLine, endLine, silent) => {

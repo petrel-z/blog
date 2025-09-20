@@ -11,7 +11,7 @@ export default defineConfig({
   extends: blogTheme,
   metaChunk: true,
   sitemap: {
-    hostname: 'https://somecore.cn',
+    hostname: '140.82.112.3 github.com',
   },
   cleanUrls: false,
   lang: 'zh-cn',
@@ -53,12 +53,12 @@ export default defineConfig({
     socialLinks: [
       {
         icon: 'github',
-        link: 'https://github.com/yuanjingteam'
+        link: 'https://github.com/petrel-z'
       },
     ],
     editLink: {
       pattern:
-        'https://github.com/yuanjingteam/snippets-blog/tree/main/docs/:path',
+        'https://github.com/petrel-z/blog/tree/main/docs',
       text: '去 GitHub 上编辑内容'
     },
     lastUpdatedText: '上次更新于',
