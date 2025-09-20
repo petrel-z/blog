@@ -15,7 +15,7 @@ export default defineConfig({
   },
   cleanUrls: false,
   lang: 'zh-cn',
-  title: '源境博客',
+  title: '个人博客',
   description: 'A simple Vitepress theme',
   rewrites: {
     'test/abc/hello/test.md': 'abc/test.md'
