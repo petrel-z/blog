@@ -11,7 +11,7 @@ export default defineConfig({
   extends: blogTheme,
   metaChunk: true,
   sitemap: {
-    hostname: '140.82.112.3 github.com',
+    hostname: 'https://blog.github.io',
   },
   cleanUrls: false,
   lang: 'zh-cn',
