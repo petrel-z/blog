@@ -10,7 +10,7 @@ const logo = computed(() =>
     ?? frontmatter.value?.blog?.logo
     ?? home?.value?.logo
     ?? site.value.themeConfig?.logo
-    ?? '/logo.svg'
+    ?? '/avator.png'
 )
 const alwaysHide = computed(() => frontmatter.value.blog?.minScreenAvatar === false)
 </script>

@@ -11,7 +11,7 @@ export default defineConfig({
   extends: blogTheme,
   metaChunk: true,
   sitemap: {
-    hostname: 'https://blog.github.io',
+    hostname: 'https://petrel-z.github.io/blog',
   },
   cleanUrls: false,
   lang: 'zh-cn',
@@ -34,7 +34,7 @@ export default defineConfig({
     ]
   },
   themeConfig: {
-    logo: '/logo.svg',
+    logo: '/avator.png',
     nav: [
       {
         text: '关于',

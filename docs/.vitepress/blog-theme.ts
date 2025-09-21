@@ -1,11 +1,11 @@
 import type { Theme } from '@ort/vitepress-theme'
 import { getThemeConfig } from '@ort/vitepress-theme/node'
 
-const baseUrl = 'https://yuanjingteam.github.io'
+const baseUrl = 'https://petrel-z.github.io/blog'
 const RSS: Theme.RSSOptions = {
-  title: '源境博客',
+  title: 'petrel-z的博客',
   baseUrl,
-  copyright: '源境博客',
+  copyright: 'petrel-z的博客',
   description: 'powered by vitepress'
 }
 
@@ -56,9 +56,9 @@ export const blogTheme = getThemeConfig({
   RSS,
   authorList: [
     {
-      nickname: '源境',
+      nickname: 'petrel-z',
       url: '/aboutme.html',
-      des: '源启未来，境无边界'
+      des: '一个有趣的人'
     }
   ],
   recommend: {

@@ -6,8 +6,8 @@ blog:
 #  logo: /logo.svg
 #  avatarMode: split
 #  minScreenAvatar: false
- name: '前端技术博客'
- motto: 源境
+ name: '个人技术博客'
+#  motto: 源境
  inspiring:
   - 保持热爱，奔赴山海🎨
   - 学习不是人生的全部，但既然连人生的一部分（学习）都无法征服，还能做什么呢？
